@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/12/LOGO-Recovered-12-150x150.png</url>
@@ -35,7 +35,7 @@
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 30 Dec 2022 19:57:49 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://localhost/portfoliotest/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[<p class="wp-block-paragraph ">Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
